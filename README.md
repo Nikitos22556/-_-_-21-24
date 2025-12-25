@@ -10,3 +10,5 @@
 Массивы https://github.com/Nikitos22556/-_-_-21-24/blob/main/МассивыК.pdf
 
 Uml https://github.com/Nikitos22556/-_-_-21-24/blob/main/Uml%20диаграммы.pdf
+
+Условные Операторы https://github.com/Nikitos22556/-_-_-21-24/blob/main/Условные%20Операторы.pdf
