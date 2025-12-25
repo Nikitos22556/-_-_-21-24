@@ -14,3 +14,5 @@ Uml и UDEF https://github.com/Nikitos22556/-_-_-21-24/blob/main/Uml%20диаг�
 Условные Операторы https://github.com/Nikitos22556/-_-_-21-24/blob/main/Условные%20Операторы.pdf
 
 Крестики-Нолики https://github.com/Nikitos22556/-_-_-21-24/blob/main/Крестики-Нолики.pdf
+
+Новелла https://github.com/Nikitos22556/-_-_-21-24/blob/main/Новелла.cs
